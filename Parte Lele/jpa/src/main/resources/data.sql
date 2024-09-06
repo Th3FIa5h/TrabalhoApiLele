@@ -1,0 +1,2 @@
+insert into pessoa(id,titulo,descricao, finalizado, dataPrevisaoFinal, dataFinal) values(1,'Solicitar Toner','Entrar no site da fornecedora e solicitar o toner','Não',30/09/2024,23/09/2024);
+insert into pessoa(id,titulo,descricao, finalizado, dataPrevisaoFinal, dataFinal) values(2,'Papel Atolado Impressora','Impressora está dizendo que tem papel atolado','Sim',06/09/2024,05/09/2024);
